@@ -1,0 +1,23 @@
+/* MAIN CHAT */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* MESSAGE SECTION */
+.message-container {
+}
+
+.message-bubble {
+}
+
+/* FORM STYLING */
+.chat-input-container {
+}
+
+.chat-input {
+}
+
+.chat-send-button {
+}
